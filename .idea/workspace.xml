@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e68019-4f2b-47de-8d06-e35aa169b226" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="26e68019-4f2b-47de-8d06-e35aa169b226" name="Changes" comment="change gitignore">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -121,11 +120,23 @@
       <workItem from="1713379636665" duration="151000" />
       <workItem from="1713379809619" duration="5840000" />
       <workItem from="1713453009613" duration="4665000" />
-      <workItem from="1713470264817" duration="84000" />
+      <workItem from="1713470264817" duration="420000" />
     </task>
+    <task id="LOCAL−00001" summary="change gitignore">
+      <option name="closed" value="true" />
+      <created>1713470375444</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1713470375444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="change gitignore" />
   </component>
 </project>
