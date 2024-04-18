@@ -37,5 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-### configuration ###
+# Ignore config.properties
 src/main/resources/config.properties

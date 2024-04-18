@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e68019-4f2b-47de-8d06-e35aa169b226" name="Changes" comment="change gitignore">
+    <list default="true" id="26e68019-4f2b-47de-8d06-e35aa169b226" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
       <workItem from="1713379636665" duration="151000" />
       <workItem from="1713379809619" duration="5840000" />
       <workItem from="1713453009613" duration="4665000" />
-      <workItem from="1713470264817" duration="420000" />
+      <workItem from="1713470264817" duration="637000" />
     </task>
     <task id="LOCAL−00001" summary="change gitignore">
       <option name="closed" value="true" />
@@ -129,7 +129,21 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1713470375444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="change gitignore">
+      <option name="closed" value="true" />
+      <created>1713470690750</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1713470690750</updated>
+    </task>
+    <task id="LOCAL−00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1713470812460</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1713470812460</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="change gitignore" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
